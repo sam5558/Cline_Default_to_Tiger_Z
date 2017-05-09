@@ -1,5 +1,5 @@
 # Cline_Default_to_Tiger_Z
 
 
-This is a simple script to convert a default cline to custom Tiger Z series Clines for everyone.
-Enjoy :D
+This is a simple script to convert default clines to custom Tiger Z series Clines.
+Enjoy everyone :D
